@@ -13,11 +13,17 @@ Patient Insights:
  .Avg. Patient Age: 51.5 years
 
 .Doctors & Facilities: 37,176 doctors and 400 rooms
+
 .Billing: Average bill amount of $25,518
+
 .Admission Analysis: Breakdown by age group, hospital, month, and .admission type.
+
 .Test Results: Normal (10%), Abnormal (56%), Inconclusive (34%).
+
 .LOS Distribution: Grouped by billing and patient type.
+
 .Insurance & Billing: Provider and hospital billing comparisons.
+
 
 Dashboard Preview:
 
